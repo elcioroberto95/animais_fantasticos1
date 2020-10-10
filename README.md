@@ -1,4 +1,4 @@
 # ANIMAIS FANTASTICOS || FANTASTIC ANIMALS
 Um site realizado para treinar minhas habilidades com Javascript no curso da origamid.
 <br>
-A website designed to train my Javascript skills in the origamid course.
+A website designed to train my Javascript skills in the origamid course.<br>
